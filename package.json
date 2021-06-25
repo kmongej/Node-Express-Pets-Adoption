@@ -1,0 +1,27 @@
+{
+  "name": "pets",
+  "version": "0.1.0",
+  "description": "adoption site for pets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmongej/Node-Express-Pets-Adoption.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "Karen Monge Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmongej/Node-Express-Pets-Adoption/issues"
+  },
+  "homepage": "https://github.com/kmongej/Node-Express-Pets-Adoption#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
